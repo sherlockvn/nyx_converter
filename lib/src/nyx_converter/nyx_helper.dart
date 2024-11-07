@@ -82,7 +82,7 @@ class NyxHelper {
     if (audioCodec != null) {
       command += "-c:a ${audioCodec.command} ";
     }
-    command += "-crf 28 -preset medium -b:a 128k -b:v 2000k -level 3.0 ";
+    command += "-crf 28 -preset veryfast -b:a 128k -b:v 2000k -level 3.0 ";
 
     // if (frequency != null) {
     //   // sets the audio sample rate to 48000Hz,...
