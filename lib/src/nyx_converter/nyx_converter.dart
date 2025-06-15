@@ -1,4 +1,5 @@
-import 'package:ffmpeg_kit_flutter_full_gpl/ffmpeg_kit.dart';
+
+import 'package:ffmpeg_kit_flutter_minimal/ffmpeg_kit.dart';
 import 'package:nyx_converter/nyx_converter.dart';
 import 'package:nyx_converter/src/helper/verify_data.dart';
 import 'package:nyx_converter/src/nyx_converter/i_nyx_converter.dart';

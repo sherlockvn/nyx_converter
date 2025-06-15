@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:ffmpeg_kit_flutter_full_gpl/ffmpeg_kit.dart';
-import 'package:ffmpeg_kit_flutter_full_gpl/log.dart';
-import 'package:ffmpeg_kit_flutter_full_gpl/return_code.dart';
-import 'package:ffmpeg_kit_flutter_full_gpl/session.dart';
-import 'package:ffmpeg_kit_flutter_full_gpl/session_state.dart';
+import 'package:ffmpeg_kit_flutter_minimal/ffmpeg_kit.dart';
+import 'package:ffmpeg_kit_flutter_minimal/log.dart';
+import 'package:ffmpeg_kit_flutter_minimal/return_code.dart';
+import 'package:ffmpeg_kit_flutter_minimal/session.dart';
+import 'package:ffmpeg_kit_flutter_minimal/session_state.dart';
 import 'package:nyx_converter/nyx_converter.dart';
 
 class NyxFFConverter {
